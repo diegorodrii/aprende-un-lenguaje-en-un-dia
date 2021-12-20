@@ -65,6 +65,15 @@ _Comentario de bloque_
 
 ![image](https://user-images.githubusercontent.com/91873599/146732865-cf1ea983-4df9-44d0-8cd9-a86555ce9035.png)
 
+Tampoco es necesario poner ";" al final del código, de hecho con un salto de línea nos basta
+
+![WhatsApp Image 2021-12-20 at 09 15 46](https://user-images.githubusercontent.com/91873618/146735730-9cc1ca2b-08ad-43c9-a4fd-63f58a156b00.jpeg)
+
+Incluso podríamos declarar varias variables en la misma línea poniendo ";" entre ellas
+
+![WhatsApp Image 2021-12-20 at 09 16 37 (1)](https://user-images.githubusercontent.com/91873618/146735770-5c3f9d7e-8124-458b-8d63-62ebccfa54fd.jpeg)
+
+
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
@@ -99,6 +108,11 @@ print("Hola Mundo");
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+
+num = 10
+
+for i in range(num):
+  print(' ' * (num - i - 1) + "*" * (2 * i + 1))
 
 ![WhatsApp Image 2021-12-20 at 08 59 18](https://user-images.githubusercontent.com/91873618/146734037-63e8ea4e-a977-41cb-9b96-872ce12ea9c7.jpeg)
 
