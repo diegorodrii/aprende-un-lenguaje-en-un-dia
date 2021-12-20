@@ -10,7 +10,7 @@ Con este ejercicio se pretende despertar el interés por otros lenguajes de prog
 
 Sigue los pasos que se indican a continuación.
 
-## Creación del equipo
+## Creación del equipo 
 
 Este ejercicio se debe hacer en grupos de 3 alumnos. Uno de ellos será el representante del grupo.
 
@@ -18,7 +18,7 @@ Este ejercicio se debe hacer en grupos de 3 alumnos. Uno de ellos será el repre
 
 El representante del grupo debe hacer un *fork* de este repositorio para utilizarlo como base.
 
-## Añadiendo colaboradores
+## Añadiendo colaboradores 
 
 El encargado del grupo deberá añadir como colaboradores del repositorio *forkeado* a los otros dos miembros, para trabajar todos sobre los mismos archivos. Cuando alguien es colaborador en un repositorio, puede hacer *push* a él sin necesidad de pedir permiso o hacer *pull request*.
 
@@ -27,6 +27,8 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 ## Miembros del grupo
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
+
+// A(D^2)       //
 
 * Diego Rodríguez
 * Álvaro Linero
@@ -59,6 +61,10 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 print("Hola Mundo");
+
+![WhatsApp Image 2021-12-20 at 08 52 25](https://user-images.githubusercontent.com/91873618/146731960-18a23744-81ac-4328-9564-83184b7c9414.jpeg)
+
+
 
 ### 2. Pirámide
 
