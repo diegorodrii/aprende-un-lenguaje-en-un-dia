@@ -109,12 +109,14 @@ print("Hola Mundo");
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-num = 10
+lineas = int (input ('Numero de lineas'))
+for numero_linea in range(lineas):
+    espacios = lineas - numero_linea -1
+    asteriscos = 1 + numero_linea *2
+    print (" "espacios+""*asteriscos)
 
-for i in range(num):
-  print(' ' * (num - i - 1) + "*" * (2 * i + 1))
+![WhatsApp Image 2021-12-20 at 09 43 26](https://user-images.githubusercontent.com/91873618/146738188-1bda3b49-f104-4984-b535-cca75b737c7d.jpeg)
 
-![WhatsApp Image 2021-12-20 at 08 59 18](https://user-images.githubusercontent.com/91873618/146734037-63e8ea4e-a977-41cb-9b96-872ce12ea9c7.jpeg)
 
 
 ### 3. Arrays y números aleatorios
