@@ -75,7 +75,9 @@ https://www.python.org/downloads/
 
 ![WhatsApp Image 2021-12-20 at 09 06 34](https://user-images.githubusercontent.com/91873618/146734543-975dd68a-650a-4711-a20a-b5950d0a3553.jpeg)
 
+
 Hemos también tenido que instalar la extensión de Python en VSC para poder ejecutar el código de una manera más cómoda.
+
 
 ![WhatsApp Image 2021-12-20 at 09 08 06](https://user-images.githubusercontent.com/91873618/146734638-33b66c6a-c30c-48a7-9709-790ee3c94e07.jpeg)
 
