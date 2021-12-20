@@ -109,7 +109,7 @@ print("Hola Mundo");
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-lineas = int (input ('Numero de lineas'))
+lineas = int (input ('Numero de lineas')) ```<br>```
 for numero_linea in range(lineas):
     espacios = lineas - numero_linea -1
     asteriscos = 1 + numero_linea *2
