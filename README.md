@@ -62,6 +62,7 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 print("Hola Mundo");
 
+
 ![WhatsApp Image 2021-12-20 at 08 52 25](https://user-images.githubusercontent.com/91873618/146731960-18a23744-81ac-4328-9564-83184b7c9414.jpeg)
 
 
@@ -73,8 +74,8 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
 num = 10
 
 for i in range(num):
-  print(i)
   print(' ' * (num - i - 1) + "*" * (2 * i + 1))
+  
 
 ![WhatsApp Image 2021-12-20 at 08 59 18](https://user-images.githubusercontent.com/91873618/146732742-3d4fc5f5-3b2d-4b77-8a71-3705b8f9eeef.jpeg)
 
