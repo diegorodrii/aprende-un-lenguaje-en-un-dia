@@ -142,7 +142,6 @@ print("Esta lista contiene 20 números aleatorios del 1 al 100: ")
 print(aleatorios)
 
 
-""" Falta crear otra lista donde los primos de la lista "aleatorios" vayan primero"""
 def esPrimo(l):
     primos = []
     for i in l:
