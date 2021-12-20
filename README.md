@@ -10,7 +10,7 @@ Con este ejercicio se pretende despertar el interés por otros lenguajes de prog
 
 Sigue los pasos que se indican a continuación.
 
-## Creación del equipo 
+## Creación del equipo
 
 Este ejercicio se debe hacer en grupos de 3 alumnos. Uno de ellos será el representante del grupo.
 
@@ -18,7 +18,7 @@ Este ejercicio se debe hacer en grupos de 3 alumnos. Uno de ellos será el repre
 
 El representante del grupo debe hacer un *fork* de este repositorio para utilizarlo como base.
 
-## Añadiendo colaboradores 
+## Añadiendo colaboradores
 
 El encargado del grupo deberá añadir como colaboradores del repositorio *forkeado* a los otros dos miembros, para trabajar todos sobre los mismos archivos. Cuando alguien es colaborador en un repositorio, puede hacer *push* a él sin necesidad de pedir permiso o hacer *pull request*.
 
@@ -27,8 +27,6 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 ## Miembros del grupo
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
-
-// Nombre del Grupo: A(D^2) //
 
 * Diego Rodríguez
 * Álvaro Linero
@@ -46,7 +44,20 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+### Breve descripción de Python.
+![image](https://user-images.githubusercontent.com/91873599/146731638-cd1a9b66-e1b8-462d-9bf7-26787127e9fd.png)
+
+Python es un lenguaje de programación interpretao que se creó entre la década de los 80 y los 90 y se puede usar para un gran abanico de desarrollo (interfaces gráficas, bases de datos y páginas web). También es ampliamente usado y aceptado por la comunidad científica. 
+
+A diferencia de otros lenguajes de programación, Python es reconocido por tener una sintaxis poco restrictiva. Otra característica que lo define es que a diferencia de Java solo necesitamos el código en sí, ya que puede ser ejecutado tal cuál.
+
+### Comentarios.
+
+_Comentario de una línea:_
+![image](https://user-images.githubusercontent.com/91873599/146732844-73963d1e-65d8-40c7-a825-95daae075117.png)
+
+_Comentario de bloque_
+![image](https://user-images.githubusercontent.com/91873599/146732865-cf1ea983-4df9-44d0-8cd9-a86555ce9035.png)
 
 ## Herramientas de desarrollo
 
@@ -62,23 +73,9 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 print("Hola Mundo");
 
-
-![WhatsApp Image 2021-12-20 at 08 52 25](https://user-images.githubusercontent.com/91873618/146731960-18a23744-81ac-4328-9564-83184b7c9414.jpeg)
-
-
-
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
-
-num = 10
-
-for i in range(num):
-  print(' ' * (num - i - 1) + "*" * (2 * i + 1))
-  
-
-![WhatsApp Image 2021-12-20 at 08 59 18](https://user-images.githubusercontent.com/91873618/146732742-3d4fc5f5-3b2d-4b77-8a71-3705b8f9eeef.jpeg)
-
 
 ### 3. Arrays y números aleatorios
 
