@@ -90,7 +90,11 @@ Hemos también tenido que instalar la extensión de Python en VSC para poder eje
 
 ![WhatsApp Image 2021-12-20 at 09 08 06](https://user-images.githubusercontent.com/91873618/146734638-33b66c6a-c30c-48a7-9709-790ee3c94e07.jpeg)
 
-Para el ejercicio de Arrays, hemos tenido que instalar el IDE "Spider". 
+Para el ejercicio de Arrays, hemos tenido que instalar el IDE "Spyder". 
+
+![fd8bce49301ba3f37ad24341383fe71f](https://user-images.githubusercontent.com/91873618/146739445-f38fb4e4-4a7c-4f0a-80cb-efface913192.png)
+
+
 
 
 ## Poniendo en práctica el lenguaje
@@ -104,11 +108,6 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 ```python
 print("Hola Mundo");
 ```
-
-
-
-
-
 
 ![WhatsApp Image 2021-12-20 at 08 52 25](https://user-images.githubusercontent.com/91873618/146733946-0500aca3-ae63-4fa0-ad02-45e3b8d3718e.jpeg)
 
@@ -132,6 +131,60 @@ for numero_linea in range(lineas):
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+
+```python
+import numpy as np
+import random
+
+n = 20
+aleatorios = [random.randint(1, 100) for _ in range(n)]
+print("Esta lista contiene 20 números aleatorios del 1 al 100: ")
+print(aleatorios)
+
+
+""" Falta crear otra lista donde los primos de la lista "aleatorios" vayan primero"""
+def esPrimo(l):
+    primos = []
+    for i in l:
+        p = 0
+        if i == 1:
+          primos.append(i)
+        else:
+          for j in range(1,i+1):
+            if i % j == 0:
+              p += 1
+          if p == 2:
+            primos.append(i)
+    return primos
+
+lista = aleatorios
+primos = esPrimo(lista)
+
+for x in range(len(lista)):
+    c=0
+    control = False
+    for y in range(len(primos)):
+        if lista[x]!=primos[c]:
+           control=True
+           c+=1
+        else:
+            control=False
+
+    if control== True:
+        primos.append(lista[x])
+print("\nEsta es la lista con los primos al principio")
+print (primos)
+```
+
+![WhatsApp Image 2021-12-20 at 09 45 42](https://user-images.githubusercontent.com/91873618/146739583-ba2ba69c-1dec-422c-a0c8-ff162493cf0a.jpeg)
+
+
+
+
+
+
+
+
 
 ## Presentación de resultados
 
