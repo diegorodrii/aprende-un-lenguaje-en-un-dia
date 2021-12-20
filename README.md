@@ -77,9 +77,17 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 print("Hola Mundo");
 
+
+
+![WhatsApp Image 2021-12-20 at 08 52 25](https://user-images.githubusercontent.com/91873618/146733946-0500aca3-ae63-4fa0-ad02-45e3b8d3718e.jpeg)
+
+
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+
+![WhatsApp Image 2021-12-20 at 08 59 18](https://user-images.githubusercontent.com/91873618/146734037-63e8ea4e-a977-41cb-9b96-872ce12ea9c7.jpeg)
+
 
 ### 3. Arrays y números aleatorios
 
