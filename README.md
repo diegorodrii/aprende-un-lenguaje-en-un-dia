@@ -101,7 +101,12 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
+```python
 print("Hola Mundo");
+```
+
+
+
 
 
 
