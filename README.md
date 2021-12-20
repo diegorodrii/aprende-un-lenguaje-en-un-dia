@@ -54,9 +54,13 @@ A diferencia de otros lenguajes de programación, Python es reconocido por tener
 ### Comentarios.
 
 _Comentario de una línea:_
+
+
 ![image](https://user-images.githubusercontent.com/91873599/146732844-73963d1e-65d8-40c7-a825-95daae075117.png)
 
 _Comentario de bloque_
+
+
 ![image](https://user-images.githubusercontent.com/91873599/146732865-cf1ea983-4df9-44d0-8cd9-a86555ce9035.png)
 
 ## Herramientas de desarrollo
