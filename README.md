@@ -90,6 +90,9 @@ Hemos también tenido que instalar la extensión de Python en VSC para poder eje
 
 ![WhatsApp Image 2021-12-20 at 09 08 06](https://user-images.githubusercontent.com/91873618/146734638-33b66c6a-c30c-48a7-9709-790ee3c94e07.jpeg)
 
+Para el ejercicio de Arrays, hemos tenido que instalar el IDE "Spider". 
+
+
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
@@ -109,11 +112,13 @@ print("Hola Mundo");
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-lineas = int (input ('Numero de lineas')) ```<br>```
+```python
+lineas = int (input ('Numero de lineas'))
 for numero_linea in range(lineas):
     espacios = lineas - numero_linea -1
     asteriscos = 1 + numero_linea *2
     print (" "espacios+""*asteriscos)
+```
 
 ![WhatsApp Image 2021-12-20 at 09 43 26](https://user-images.githubusercontent.com/91873618/146738188-1bda3b49-f104-4984-b535-cca75b737c7d.jpeg)
 
