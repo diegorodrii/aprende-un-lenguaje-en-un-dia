@@ -45,6 +45,7 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 ## Información sobre el lenguaje
 
 ### Breve descripción de Python.
+```Python```
 ![image](https://user-images.githubusercontent.com/91873599/146731638-cd1a9b66-e1b8-462d-9bf7-26787127e9fd.png)
 
 Python es un lenguaje de programación interpretao que se creó entre la década de los 80 y los 90 y se puede usar para un gran abanico de desarrollo (interfaces gráficas, bases de datos y páginas web). También es ampliamente usado y aceptado por la comunidad científica. 
