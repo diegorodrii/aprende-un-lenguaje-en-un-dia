@@ -44,6 +44,8 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
+
+
 ### Breve descripción de Python.
 ![image](https://user-images.githubusercontent.com/91873599/146731638-cd1a9b66-e1b8-462d-9bf7-26787127e9fd.png)
 
@@ -66,6 +68,16 @@ _Comentario de bloque_
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+
+Hemos tenido que descargar Python desde su página oficial. Su última versión es la 3.10.
+
+https://www.python.org/downloads/
+
+![WhatsApp Image 2021-12-20 at 09 06 34](https://user-images.githubusercontent.com/91873618/146734543-975dd68a-650a-4711-a20a-b5950d0a3553.jpeg)
+
+Hemos también tenido que instalar la extensión de Python en VSC para poder ejecutar el código de una manera más cómoda.
+
+![WhatsApp Image 2021-12-20 at 09 08 06](https://user-images.githubusercontent.com/91873618/146734638-33b66c6a-c30c-48a7-9709-790ee3c94e07.jpeg)
 
 ## Poniendo en práctica el lenguaje
 
